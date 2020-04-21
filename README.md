@@ -40,6 +40,7 @@ List of movies (and other media) relevant to the North American culture
 - Saturday Night Live (link) - Look for the classic skits
 - Entourage
 - The Simpsons
+- The Orville
 
 
 # Books
@@ -64,6 +65,7 @@ List of movies (and other media) relevant to the North American culture
 - George Orwell
 - Ray Bradbury
 - Isaac Asimov - Foundation Series
+- Arthur C. Clarke
 
 
 # Games
